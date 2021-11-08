@@ -4,11 +4,10 @@
 # Datum:
 # Autor:
 ############################################################################
-import random
 from random import randint, choice
 
 ############################################################################
-print(random.randint(0,9))
+print(randint(0,9))
 
 def f():
     return None
